@@ -6,3 +6,6 @@ app.get('/', (req, res) =>{
     res.send('Bangla spice is running')
 });
 
+app.listen(port, () => {
+    console.log(`Bangla spice Api is running on port: ${port}`)
+})
