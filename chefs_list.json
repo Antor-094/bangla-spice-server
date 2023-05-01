@@ -1,0 +1,51 @@
+ [
+        {
+            "id": 1,
+            "name": "Chef Siddika Kabir",
+            "experience": 40,
+            "recipes": 200,
+            "likes": 8000,
+            "image": "https://example.com/siddika.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Chef Nazrul Islam",
+            "experience": 35,
+            "recipes": 150,
+            "likes": 5000,
+            "image": "https://example.com/nazrul.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Chef Nizam",
+            "experience": 30,
+            "recipes": 100,
+            "likes": 4000,
+            "image": "https://example.com/nizam.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Chef Anjum Anand",
+            "experience": 25,
+            "recipes": 75,
+            "likes": 3000,
+            "image": "https://example.com/anjum.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Chef Firoz",
+            "experience": 20,
+            "recipes": 50,
+            "likes": 2000,
+            "image": "https://example.com/firoz.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Chef Shawkat Osman",
+            "experience": 18,
+            "recipes": 30,
+            "likes": 1000,
+            "image": "https://example.com/shawkat.jpg"
+        }
+    ]
+
