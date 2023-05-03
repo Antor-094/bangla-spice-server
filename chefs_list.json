@@ -1,51 +1,500 @@
- [
-        {
-            "id": 1,
-            "name": "Chef Siddika Kabir",
-            "experience": 40,
-            "recipes": 200,
-            "likes": 8000,
-            "image": "https://example.com/siddika.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Chef Nazrul Islam",
-            "experience": 35,
-            "recipes": 150,
-            "likes": 5000,
-            "image": "https://example.com/nazrul.jpg"
-        },
-        {
-            "id": 3,
-            "name": "Chef Nizam",
-            "experience": 30,
-            "recipes": 100,
-            "likes": 4000,
-            "image": "https://example.com/nizam.jpg"
-        },
-        {
-            "id": 4,
-            "name": "Chef Anjum Anand",
-            "experience": 25,
-            "recipes": 75,
-            "likes": 3000,
-            "image": "https://example.com/anjum.jpg"
-        },
-        {
-            "id": 5,
-            "name": "Chef Firoz",
-            "experience": 20,
-            "recipes": 50,
-            "likes": 2000,
-            "image": "https://example.com/firoz.jpg"
-        },
-        {
-            "id": 6,
-            "name": "Chef Shawkat Osman",
-            "experience": 18,
-            "recipes": 30,
-            "likes": 1000,
-            "image": "https://example.com/shawkat.jpg"
-        }
+[
+  {
+    "id": 1,
+    "name": "Chef Siddika Kabir",
+    "experience": 45,
+    "recipes": 250,
+    "likes": 8000,
+    "image": "https://i.ibb.co/t3j7JTh/siddika-kabir.jpg",
+    "bio": "Chef Siddika Kabir was a renowned Bangladeshi chef, cookbook author, and television personality. She authored several cookbooks and hosted a popular cooking show. She was known for her simple and easy-to-follow recipes_info.",
+    "recipes_info": [
+      {
+        "name": "Chicken Biryani",
+        "ingredients": [
+          "1 kg chicken",
+          "2 cups basmati rice",
+          "2 onions",
+          "4 tomatoes",
+          "1/2 cup yogurt",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "2 bay leaves",
+          "4 cloves",
+          "4 green cardamom",
+          "2 black cardamom",
+          "1 cinnamon stick",
+          "1/2 tsp nutmeg powder",
+          "1/2 cup oil",
+          "1/2 cup ghee",
+          "1/2 cup fried onion",
+          "2 tbsp chopped mint leaves",
+          "2 tbsp chopped coriander leaves"
+        ],
+        "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. Heat oil and ghee in a pan, and fry the onions until golden brown. Add the chicken, ginger paste, garlic paste, and all the spices. Cook until the chicken is browned. Add the tomatoes and cook until they are soft.Add the yogurt and mix well. Add 4 cups of water and bring to a boil. Add the soaked rice and mix well. Add the fried onions, mint leaves, and coriander leaves. Cover the pan and cook on low heat until the rice is cooked and the water has evaporated. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Beef Curry",
+        "ingredients": [
+          "1 kg beef",
+          "2 onions",
+          "4 tomatoes",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "2 bay leaves",
+          "4 cloves",
+          "4 green cardamom",
+          "2 black cardamom",
+          "1 cinnamon stick",
+          "1/2 tsp nutmeg powder",
+          "1/2 cup oil",
+          "2 tbsp chopped coriander leaves"
+        ],
+        "cooking_method": "Heat oil in a pan, and fry the onions until golden brown. Add the beef, ginger paste, garlic paste, and all the spices. Cook until the beef is browned. Add the tomatoes and cook until they are soft. Add 2 cups of water and bring to a boil. Cover the pan and cook on low heat until the beef is tender and the water has evaporated. Add the coriander leaves and mix well. Serve hot with rice or naan bread.",
+        "rating": 4.0
+      },
+      {
+        "name": "Vegetable Pakora",
+        "ingredients": [
+          "1 cup chickpea flour",
+          "1/2 cup water",
+          "1/2 tsp cumin powder",
+          "1/2 tsp coriander powder",
+          "1/2 tsp red chili powder",
+          "1/2 tsp salt",
+          "1/2 cup chopped onion",
+          "1/2 cup chopped potato",
+          "1/2 cup chopped cauliflower",
+          "1/2 cup chopped spinach",
+          "Oil for deep frying"
+        ],
+        "cooking_method": "In a bowl, mix the chickpea flour, water, and spices to form a thick batter. Add the chopped vegetables to the batter and mix well. Heat oil in a deep fryer or a pan. Drop spoonfuls of the batter into the hot oil and fry until golden brown. Remove the pakoras from the oil and place them on a paper towel to remove excess oil. Serve hot with chutney or ketchup.",
+        "rating": 4.2
+      }
     ]
+  },
 
+  {
+    "id": 2,
+    "name": "Chef Nazrul Islam",
+    "experience": 35,
+    "recipes": 150,
+    "likes": 5000,
+    "image": "https://i.ibb.co/SnVZtfx/310109580-423371796594319-3031806249880652448-n.jpg",
+    "bio": "Chef Nazrul Islam is a renowned Bangladeshi chef, famous for his innovative take on traditional Bangladeshi cuisine. He has published several cookbooks and hosts a popular cooking show on television. He is known for his unique use of ingredients and creative presentation of dishes.",
+    "recipes_info": [
+      {
+        "name": "Machher Jhol",
+        "ingredients": [
+          "500 grams Rohu fish",
+          "2 potatoes",
+          "2 onions",
+          "2 tomatoes",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp turmeric powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "2 bay leaves",
+          "4 cloves",
+          "4 green cardamom",
+          "2 black cardamom",
+          "1 cinnamon stick",
+          "2 dried red chilies",
+          "2 green chilies",
+          "2 tbsp mustard oil",
+          "2 cups water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Wash the fish pieces and marinate them with salt and turmeric powder. ,2. Cut the potatoes into medium-sized cubes and fry them in mustard oil. Keep them aside. ,3. In the same oil, add bay leaves, cloves, cardamoms, cinnamon, and dried red chilies. ,4. Add sliced onions and fry until golden brown. ,5. Add ginger-garlic paste and fry for a minute. ,6. Add turmeric powder, cumin powder, coriander powder, and salt. ,7. Add sliced tomatoes and cook until they are soft. ,8. Add 2 cups of water and bring to a boil. ,9. Add the fish pieces and green chilies. Cook on low heat for 10-15 minutes or until the fish is cooked. ,10. Add the fried potatoes and cook for another 5 minutes. ,11. Serve hot with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "name": "Chingri Malai Curry",
+        "ingredients": [
+          "500 grams prawns",
+          "1 onion",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "2 green chilies",
+          "1 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "1 cup coconut milk",
+          "1/2 cup water",
+          "2 tbsp mustard oil",
+          "2 tbsp chopped coriander leaves",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat mustard oil in a pan and fry the prawns until they turn pink. Keep them aside. ,2. In the same oil, add sliced onions and fry until golden brown. ,3. Add ginger-garlic paste and fry for a minute. ,4. Add turmeric powder, red chili powder, and salt. ,5. Add the coconut milk and water. Cook on low heat for 5-10 minutes or until the curry thickens. ,6. Add the fried prawns and chopped coriander leaves. Cook for another 5-10 minutes or until the curry thickens.Add the fried prawns and chopped coriander leaves. Cook for another 5 minutes.Serve hot with steamed rice."
+      },
+      {
+        "name": "Dhokar Dalna",
+        "ingredients": [
+          "1 cup chana dal",
+          "2 onions",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "2 green chilies",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp red chili powder",
+          "1/2 tsp turmeric powder",
+          "2 bay leaves",
+          "1 cinnamon stick",
+          "3-4 cloves",
+          "2 cardamom pods",
+          "2 tbsp mustard oil",
+          "2 tbsp ghee",
+          "1/2 tsp sugar",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Soak the chana dal in water for at least 4 hours. Drain the water and grind the dal into a smooth paste. ,2. Add salt, turmeric powder, cumin powder, coriander powder, and red chili powder to the dal paste. Mix well. ,3. Heat mustard oil in a pan and fry the dal mixture until it turns golden brown. Keep it aside. ,4. In the same oil, add bay leaves, cinnamon, cloves, and cardamom pods. Fry for a few seconds. ,5. Add sliced onions and fry until golden brown. ,6. Add ginger-garlic paste and fry for a minute. ,7. Add the fried dal mixture and 2 cups of water. ,8. Add salt, sugar, and green chilies. Cook on low heat for 15-20 minutes or until the gravy thickens. ,9. Add ghee and cook for another minute. ,10. Serve hot with steamed rice or chapati.",
+        "rating": 4.5
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Chef Nizam",
+    "experience": 30,
+    "recipes": 100,
+    "likes": 4000,
+    "image": "https://i.ibb.co/c6M61hs/24899915-1349374498507533-6087768220020964920-n.jpg",
+    "bio": "Chef Nizam is a renowned chef with over 30 years of experience in the culinary industry. He has a vast repertoire of recipes_info and has gained a huge following for his delicious and innovative dishes. He is also known for his expertise in cooking a variety of cuisines, from traditional to modern.",
+    "recipes_info": [
+      {
+        "name": "Mutton Biryani",
+        "ingredients": [
+          "1 kg mutton",
+          "2 cups basmati rice",
+          "2 onions",
+          "4 tomatoes",
+          "1/2 cup yogurt",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "2 bay leaves",
+          "4 cloves",
+          "4 green cardamom",
+          "2 black cardamom",
+          "1 cinnamon stick",
+          "1/2 tsp nutmeg powder",
+          "1/2 cup oil",
+          "1/2 cup ghee",
+          "1/2 cup fried onion",
+          "2 tbsp chopped mint leaves",
+          "2 tbsp chopped coriander leaves"
+        ],
+        "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. Heat oil and ghee in a pan, and fry the onions until golden brown. Add the mutton, ginger paste, garlic paste, and all the spices. Cook until the mutton is browned. Add the tomatoes and cook until they are soft.Add the yogurt and mix well. Add 4 cups of water and bring to a boil. Add the soaked rice and mix well. Add the fried onions, mint leaves, and coriander leaves. Cover the pan and cook on low heat until the rice is cooked and the water has evaporated. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Fish Curry",
+        "ingredients": [
+          "1 kg fish",
+          "2 onions",
+          "4 tomatoes",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "2 bay leaves",
+          "4 cloves",
+          "4 green cardamom",
+          "2 black cardamom",
+          "1 cinnamon stick",
+          "1/2 tsp nutmeg powder",
+          "1/2 cup oil",
+          "2 tbsp chopped coriander leaves"
+        ],
+        "cooking_method": "Heat oil in a pan, and fry the onions until golden brown. Add the fish, ginger paste, garlic paste, and all the spices. Cook until the fish is browned. Add the tomatoes and cook until they are soft. Add 2 cups of water and bring to a boil. Cover the pan and cook on low heat until the fish is tender and the water has evaporated. Add the coriander leaves and mix well. Serve hot with rice or naan bread.",
+        "rating": 4.3
+      },
+      {
+        "name": "Chicken Korma",
+        "ingredients": [
+          "1 kg chicken",
+          "2 onions",
+          "4 tomatoes",
+          "1/2 cup yogurt",
+          "1/2 cup cream",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "2 bay leaves",
+          "4 cloves",
+          "4 green cardamom",
+          "2 black cardamom",
+          "1 cinnamon stick",
+          "1/2 tsp nutmeg powder",
+          "1/2 cup oil",
+          "2 tbsp chopped coriander leaves",
+          "Salt to taste"
+        ],
+        "cooking_method": "Heat oil in a pan, and fry the onions until golden brown. Add the chicken, ginger paste, garlic paste, and all the spices. Cook until the chicken is browned. Add the tomatoes and cook until they are soft. Add the yogurt and mix well. Add 2 cups of water and bring to a boil. Cover the pan and cook on low heat until the chicken is tender and the water has evaporated. Add the cream and coriander leaves and mix well. Serve hot with rice or naan bread.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tommey Mia",
+    "experience": 25,
+    "recipes": 75,
+    "likes": 3000,
+    "image": "https://i.ibb.co/Zx3hBZ4/Tommy-Miah-Interview.jpg",
+    "bio": "Tommey Mia is a Bangladeshi-born British chef, restaurateur, and author. He is the founder of the award-winning restaurant chain 'The Raj' and has authored several cookbooks. He is known for his innovative approach to traditional Indian and Bangladeshi cuisine.",
+    "recipes_info": [
+      {
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "500g boneless, skinless chicken breasts, cut into bite-size pieces",
+          "1 large onion, finely chopped",
+          "2 garlic cloves, minced",
+          "1-inch piece of ginger, grated",
+          "1 green chili, chopped",
+          "2 tbsp vegetable oil",
+          "1 tsp ground coriander",
+          "1 tsp ground cumin",
+          "1 tsp garam masala",
+          "1 tsp turmeric",
+          "1/2 tsp chili powder",
+          "1/2 tsp salt",
+          "1/2 cup plain yogurt",
+          "1/2 cup heavy cream",
+          "1 tbsp tomato paste",
+          "2 tbsp chopped fresh cilantro"
+        ],
+        "cooking_method": "In a large bowl, mix together the chicken, onion, garlic, ginger, and chili. Heat oil in a pan and fry the chicken mixture until browned. Add the spices and fry for another minute. Add the tomato paste and cook for 2 minutes. Add the yogurt and cream and cook for another 5-10 minutes, until the chicken is cooked through. Garnish with chopped cilantro and serve hot with rice or naan bread.",
+        "rating": 4.8
+      },
+      {
+        "name": "Lamb Biryani",
+        "ingredients": [
+          "500g lamb, cut into bite-size pieces",
+          "2 cups basmati rice",
+          "2 onions, thinly sliced",
+          "4 tomatoes, chopped",
+          "1/2 cup plain yogurt",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "2 bay leaves",
+          "4 cloves",
+          "4 green cardamom",
+          "2 black cardamom",
+          "1 cinnamon stick",
+          "1/2 tsp nutmeg powder",
+          "1/2 cup vegetable oil",
+          "1/2 cup ghee",
+          "1/2 cup fried onion",
+          "2 tbsp chopped mint leaves",
+          "2 tbsp chopped cilantro"
+        ],
+        "cooking_method": "Wash the rice and soak it in water for 30 minutes. Heat oil and ghee in a pan, and fry the onions until golden brown. Add the lamb, ginger paste, garlic paste, and all the spices. Cook until the lamb is browned. Add the tomatoes and cook until they are soft. Add the yogurt and mix well. Add 4 cups of water and bring to a boil. Add the soaked rice and mix well. Add the fried onions, mint leaves, and cilantro. Cover the pan and cook on low heat until the rice is cooked and the water has evaporated. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chana Masala",
+        "ingredients": [
+          "1 can of chick peas",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 inch ginger, grated",
+          "2 tomatoes, chopped",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp red chili powder",
+          "1 tsp garam masala powder",
+          "2 tbsp oil",
+          "Salt to taste",
+          "Water",
+          "Chopped coriander leaves for garnish"
+        ],
+        "cooking_method": "Heat oil in a pan, add the chopped onions, minced garlic, and grated ginger. Saute until onions turn translucent. Add the chopped tomatoes, cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Cook until the tomatoes are soft and mushy. Add the chickpeas with water and mix well. Cover the pan and let it simmer for 15-20 minutes. Add garam masala powder and mix well. Cook for another 5-10 minutes. Garnish with chopped coriander leaves and serve hot with rice or naan bread.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chef Firoz",
+    "experience": 20,
+    "recipes": 50,
+    "likes": 2000,
+    "image": "https://i.ibb.co/D5wyTDG/1599148268835.jpg",
+    "bio": "Tommey Mia is a Bangladeshi-born British chef, restaurateur, and author. He is the founder of the award-winning restaurant chain 'The Raj' and has authored several cookbooks. He is known for his innovative approach to traditional Indian and Bangladeshi cuisine.",
+    "recipes_info": [
+      {
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "500g boneless, skinless chicken breasts, cut into bite-size pieces",
+          "1 large onion, finely chopped",
+          "2 garlic cloves, minced",
+          "1-inch piece of ginger, grated",
+          "1 green chili, chopped",
+          "2 tbsp vegetable oil",
+          "1 tsp ground coriander",
+          "1 tsp ground cumin",
+          "1 tsp garam masala",
+          "1 tsp turmeric",
+          "1/2 tsp chili powder",
+          "1/2 tsp salt",
+          "1/2 cup plain yogurt",
+          "1/2 cup heavy cream",
+          "1 tbsp tomato paste",
+          "2 tbsp chopped fresh cilantro"
+        ],
+        "cooking_method": "In a large bowl, mix together the chicken, onion, garlic, ginger, and chili. Heat oil in a pan and fry the chicken mixture until browned. Add the spices and fry for another minute. Add the tomato paste and cook for 2 minutes. Add the yogurt and cream and cook for another 5-10 minutes, until the chicken is cooked through. Garnish with chopped cilantro and serve hot with rice or naan bread.",
+        "rating": 4.8
+      },
+      {
+        "name": "Lamb Biryani",
+        "ingredients": [
+          "500g lamb, cut into bite-size pieces",
+          "2 cups basmati rice",
+          "2 onions, thinly sliced",
+          "4 tomatoes, chopped",
+          "1/2 cup plain yogurt",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "2 bay leaves",
+          "4 cloves",
+          "4 green cardamom",
+          "2 black cardamom",
+          "1 cinnamon stick",
+          "1/2 tsp nutmeg powder",
+          "1/2 cup vegetable oil",
+          "1/2 cup ghee",
+          "1/2 cup fried onion",
+          "2 tbsp chopped mint leaves",
+          "2 tbsp chopped cilantro"
+        ],
+        "cooking_method": "Wash the rice and soak it in water for 30 minutes. Heat oil and ghee in a pan, and fry the onions until golden brown. Add the lamb, ginger paste, garlic paste, and all the spices. Cook until the lamb is browned. Add the tomatoes and cook until they are soft. Add the yogurt and mix well. Add 4 cups of water and bring to a boil. Add the soaked rice and mix well. Add the fried onions, mint leaves, and cilantro. Cover the pan and cook on low heat until the rice is cooked and the water has evaporated. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chana Masala",
+        "ingredients": [
+          "1 can of chick peas",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 inch ginger, grated",
+          "2 tomatoes, chopped",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp red chili powder",
+          "1 tsp garam masala powder",
+          "2 tbsp oil",
+          "Salt to taste",
+          "Water",
+          "Chopped coriander leaves for garnish"
+        ],
+        "cooking_method": "Heat oil in a pan, add the chopped onions, minced garlic, and grated ginger. Saute until onions turn translucent. Add the chopped tomatoes, cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Cook until the tomatoes are soft and mushy. Add the chickpeas with water and mix well. Cover the pan and let it simmer for 15-20 minutes. Add garam masala powder and mix well. Cook for another 5-10 minutes. Garnish with chopped coriander leaves and serve hot with rice or naan bread.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chef Keka Ferdousi",
+    "experience": 18,
+    "recipes": 30,
+    "likes": 1000,
+    "image": "https://i.ibb.co/7Jm6rqr/SDF-1908081247.jpg",
+    "bio": "Tommey Mia is a Bangladeshi-born British chef, restaurateur, and author. He is the founder of the award-winning restaurant chain 'The Raj' and has authored several cookbooks. He is known for his innovative approach to traditional Indian and Bangladeshi cuisine.",
+    "recipes_info": [
+      {
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "500g boneless, skinless chicken breasts, cut into bite-size pieces",
+          "1 large onion, finely chopped",
+          "2 garlic cloves, minced",
+          "1-inch piece of ginger, grated",
+          "1 green chili, chopped",
+          "2 tbsp vegetable oil",
+          "1 tsp ground coriander",
+          "1 tsp ground cumin",
+          "1 tsp garam masala",
+          "1 tsp turmeric",
+          "1/2 tsp chili powder",
+          "1/2 tsp salt",
+          "1/2 cup plain yogurt",
+          "1/2 cup heavy cream",
+          "1 tbsp tomato paste",
+          "2 tbsp chopped fresh cilantro"
+        ],
+        "cooking_method": "In a large bowl, mix together the chicken, onion, garlic, ginger, and chili. Heat oil in a pan and fry the chicken mixture until browned. Add the spices and fry for another minute. Add the tomato paste and cook for 2 minutes. Add the yogurt and cream and cook for another 5-10 minutes, until the chicken is cooked through. Garnish with chopped cilantro and serve hot with rice or naan bread.",
+        "rating": 4.8
+      },
+      {
+        "name": "Lamb Biryani",
+        "ingredients": [
+          "500g lamb, cut into bite-size pieces",
+          "2 cups basmati rice",
+          "2 onions, thinly sliced",
+          "4 tomatoes, chopped",
+          "1/2 cup plain yogurt",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "2 bay leaves",
+          "4 cloves",
+          "4 green cardamom",
+          "2 black cardamom",
+          "1 cinnamon stick",
+          "1/2 tsp nutmeg powder",
+          "1/2 cup vegetable oil",
+          "1/2 cup ghee",
+          "1/2 cup fried onion",
+          "2 tbsp chopped mint leaves",
+          "2 tbsp chopped cilantro"
+        ],
+        "cooking_method": "Wash the rice and soak it in water for 30 minutes. Heat oil and ghee in a pan, and fry the onions until golden brown. Add the lamb, ginger paste, garlic paste, and all the spices. Cook until the lamb is browned. Add the tomatoes and cook until they are soft. Add the yogurt and mix well. Add 4 cups of water and bring to a boil. Add the soaked rice and mix well. Add the fried onions, mint leaves, and cilantro. Cover the pan and cook on low heat until the rice is cooked and the water has evaporated. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chana Masala",
+        "ingredients": [
+          "1 can of chick peas",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 inch ginger, grated",
+          "2 tomatoes, chopped",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp red chili powder",
+          "1 tsp garam masala powder",
+          "2 tbsp oil",
+          "Salt to taste",
+          "Water",
+          "Chopped coriander leaves for garnish"
+        ],
+        "cooking_method": "Heat oil in a pan, add the chopped onions, minced garlic, and grated ginger. Saute until onions turn translucent. Add the chopped tomatoes, cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Cook until the tomatoes are soft and mushy. Add the chickpeas with water and mix well. Cover the pan and let it simmer for 15-20 minutes. Add garam masala powder and mix well. Cook for another 5-10 minutes. Garnish with chopped coriander leaves and serve hot with rice or naan bread.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
