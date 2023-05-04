@@ -60,73 +60,43 @@
     "bio": "Chef Nazrul Islam is a popular Bangladeshi chef with a creative approach to traditional cuisine. He's a cookbook author and TV host, celebrated for his innovative use of ingredients and presentation..",
     "recipes_info": [
       {
-        "name": "Machher Jhol",
+        "name": "Chingri Bhapa",
         "ingredients": [
-          "500 grams Rohu fish",
-          "2 potatoes",
-          "2 onions",
-          "2 tomatoes",
-          "1 tbsp ginger paste",
-          "1 tbsp garlic paste",
-          "1 tsp turmeric powder",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "2 bay leaves",
-          "4 cloves",
-          "4 green cardamom",
-          "2 black cardamom",
-          "1 cinnamon stick",
-          "2 dried red chilies",
-          "2 green chilies",
-          "2 tbsp mustard oil",
-          "2 cups water",
+          "1 lb of shrimp",
+          "1/2 cup of grated coconut",
+          "1/2 cup of mustard paste",
+          "2-3 green chillies",
+          "1/4 tsp turmeric powder",
           "Salt to taste"
         ],
-        "cooking_method": "1. Wash the fish pieces and marinate them with salt and turmeric powder. ,2. Cut the potatoes into medium-sized cubes and fry them in mustard oil. Keep them aside. ,3. In the same oil, add bay leaves, cloves, cardamoms, cinnamon, and dried red chilies. ,4. Add sliced onions and fry until golden brown. ,5. Add ginger-garlic paste and fry for a minute. ,6. Add turmeric powder, cumin powder, coriander powder, and salt. ,7. Add sliced tomatoes and cook until they are soft. ,8. Add 2 cups of water and bring to a boil. ,9. Add the fish pieces and green chilies. Cook on low heat for 10-15 minutes or until the fish is cooked. ,10. Add the fried potatoes and cook for another 5 minutes. ,11. Serve hot with steamed rice.",
-        "rating": "4.8"
-      },
-      {
-        "name": "Chingri Malai Curry",
-        "ingredients": [
-          "500 grams prawns",
-          "1 onion",
-          "1 tbsp ginger paste",
-          "1 tbsp garlic paste",
-          "2 green chilies",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 cup coconut milk",
-          "1/2 cup water",
-          "2 tbsp mustard oil",
-          "2 tbsp chopped coriander leaves",
-          "Salt to taste"
-        ],
-        "cooking_method": "1. Heat mustard oil in a pan and fry the prawns until they turn pink. Keep them aside. ,2. In the same oil, add sliced onions and fry until golden brown. ,3. Add ginger-garlic paste and fry for a minute. ,4. Add turmeric powder, red chili powder, and salt. ,5. Add the coconut milk and water. Cook on low heat for 5-10 minutes or until the curry thickens. ,6. Add the fried prawns and chopped coriander leaves. Cook for another 5-10 minutes or until the curry thickens.Add the fried prawns and chopped coriander leaves. Cook for another 5 minutes.Serve hot with steamed rice.",
+        "cooking_method": "Chingri Bhapa is a popular Bengali dish that consists of steamed prawns or shrimp cooked in a rich and flavorful coconut and mustard gravy. To make Chingri Bhapa, first, clean and devein the prawns or shrimp and marinate them with salt and turmeric. Next, prepare the gravy by mixing together grated coconut, mustard seeds, green chili, salt, and a little water in a blender or food processor. Then, heat oil in a pan and add the gravy mixture, cooking until fragrant. Add the prawns/shrimp to the pan and stir well, making sure they are coated in the gravy. Finally, transfer the mixture to a bowl, cover it with foil, and steam for around 10-15 minutes until the prawns/shrimp are cooked through and the gravy is thick and creamy. Serve hot with rice or bread.",
         "rating": "4.5"
       },
       {
-        "name": "Dhokar Dalna",
+        "name": "Kacchi Biryani",
         "ingredients": [
-          "1 cup chana dal",
-          "2 onions",
-          "1 tbsp ginger paste",
-          "1 tbsp garlic paste",
-          "2 green chilies",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "1 tsp red chili powder",
-          "1/2 tsp turmeric powder",
-          "2 bay leaves",
-          "1 cinnamon stick",
-          "3-4 cloves",
-          "2 cardamom pods",
-          "2 tbsp mustard oil",
-          "2 tbsp ghee",
-          "1/2 tsp sugar",
+          "1 lb of mutton",
+          "2 cups of basmati rice",
+          "1/2 cup of yogurt",
+          "2-3 tbsp of ghee",
+          "1/4 tsp of saffron",
           "Salt to taste"
         ],
-        "cooking_method": "1. Soak the chana dal in water for at least 4 hours. Drain the water and grind the dal into a smooth paste. ,2. Add salt, turmeric powder, cumin powder, coriander powder, and red chili powder to the dal paste. Mix well. ,3. Heat mustard oil in a pan and fry the dal mixture until it turns golden brown. Keep it aside. ,4. In the same oil, add bay leaves, cinnamon, cloves, and cardamom pods. Fry for a few seconds. ,5. Add sliced onions and fry until golden brown. ,6. Add ginger-garlic paste and fry for a minute. ,7. Add the fried dal mixture and 2 cups of water. ,8. Add salt, sugar, and green chilies. Cook on low heat for 15-20 minutes or until the gravy thickens. ,9. Add ghee and cook for another minute. ,10. Serve hot with steamed rice or chapati.",
-        "rating": "4.5"
+        "cooking_method": "To make Kacchi Biryani, first marinate the meat with yogurt, ginger-garlic paste, chili powder, cumin powder, coriander powder, garam masala, salt, and oil for at least 2-3 hours. Then, in a large pot, add the marinated meat and layer it with sliced onions, chopped mint and coriander leaves, and boiled eggs. Top it with soaked basmati rice, saffron-infused milk, and fried onions. Seal the pot with dough and cook it over low heat for 2-3 hours until the rice and meat are fully cooked and infused with the aromatic spices. Serve hot with raita and salad.",
+        "rating": "4"
+      },
+      {
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "1 lb of hilsa fish",
+          "1/2 cup of mustard paste",
+          "1/4 cup of yogurt",
+          "2-3 green chillies",
+          "1/2 tsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "To prepare Shorshe Ilish, first marinate the ilish fish with turmeric and salt for 10-15 minutes. Then, fry the fish in mustard oil until golden brown and set aside. In the same pan, add some more mustard oil and fry sliced onions until golden brown. Add ginger paste, garlic paste, and green chilies and cook for a few minutes. Next, add a tablespoon of mustard paste and mix well with the onion mixture. Gradually add water and keep stirring until the mustard mixture is cooked and oil starts separating. Add salt and sugar to taste. Finally, add the fried ilish fish to the mustard gravy and let it cook for a few minutes until the gravy thickens. Serve hot with steamed rice.",
+        "rating": "5"
       }
     ]
   },
@@ -141,81 +111,43 @@
     "bio": "Chef Nizam is an experienced and versatile chef with a vast repertoire of recipes_info and a huge following. He is known for his expertise in both traditional and modern cuisines.",
     "recipes_info": [
       {
-        "name": "Mutton Biryani",
+        "name": "Chingri Bhapa",
         "ingredients": [
-          "1 kg mutton",
-          "2 cups basmati rice",
-          "2 onions",
-          "4 tomatoes",
-          "1/2 cup yogurt",
-          "1 tbsp ginger paste",
-          "1 tbsp garlic paste",
-          "1 tsp red chili powder",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "2 bay leaves",
-          "4 cloves",
-          "4 green cardamom",
-          "2 black cardamom",
-          "1 cinnamon stick",
-          "1/2 tsp nutmeg powder",
-          "1/2 cup oil",
-          "1/2 cup ghee",
-          "1/2 cup fried onion",
-          "2 tbsp chopped mint leaves",
-          "2 tbsp chopped coriander leaves"
-        ],
-        "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. Heat oil and ghee in a pan, and fry the onions until golden brown. Add the mutton, ginger paste, garlic paste, and all the spices. Cook until the mutton is browned. Add the tomatoes and cook until they are soft.Add the yogurt and mix well. Add 4 cups of water and bring to a boil. Add the soaked rice and mix well. Add the fried onions, mint leaves, and coriander leaves. Cover the pan and cook on low heat until the rice is cooked and the water has evaporated. Serve hot.",
-        "rating": "4.8"
-      },
-      {
-        "name": "Fish Curry",
-        "ingredients": [
-          "1 kg fish",
-          "2 onions",
-          "4 tomatoes",
-          "1 tbsp ginger paste",
-          "1 tbsp garlic paste",
-          "1 tsp red chili powder",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "2 bay leaves",
-          "4 cloves",
-          "4 green cardamom",
-          "2 black cardamom",
-          "1 cinnamon stick",
-          "1/2 tsp nutmeg powder",
-          "1/2 cup oil",
-          "2 tbsp chopped coriander leaves"
-        ],
-        "cooking_method": "Heat oil in a pan, and fry the onions until golden brown. Add the fish, ginger paste, garlic paste, and all the spices. Cook until the fish is browned. Add the tomatoes and cook until they are soft. Add 2 cups of water and bring to a boil. Cover the pan and cook on low heat until the fish is tender and the water has evaporated. Add the coriander leaves and mix well. Serve hot with rice or naan bread.",
-        "rating": "4.3"
-      },
-      {
-        "name": "Chicken Korma",
-        "ingredients": [
-          "1 kg chicken",
-          "2 onions",
-          "4 tomatoes",
-          "1/2 cup yogurt",
-          "1/2 cup cream",
-          "1 tbsp ginger paste",
-          "1 tbsp garlic paste",
-          "1 tsp red chili powder",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "2 bay leaves",
-          "4 cloves",
-          "4 green cardamom",
-          "2 black cardamom",
-          "1 cinnamon stick",
-          "1/2 tsp nutmeg powder",
-          "1/2 cup oil",
-          "2 tbsp chopped coriander leaves",
+          "1 lb of shrimp",
+          "1/2 cup of grated coconut",
+          "1/2 cup of mustard paste",
+          "2-3 green chillies",
+          "1/4 tsp turmeric powder",
           "Salt to taste"
         ],
-        "cooking_method": "Heat oil in a pan, and fry the onions until golden brown. Add the chicken, ginger paste, garlic paste, and all the spices. Cook until the chicken is browned. Add the tomatoes and cook until they are soft. Add the yogurt and mix well. Add 2 cups of water and bring to a boil. Cover the pan and cook on low heat until the chicken is tender and the water has evaporated. Add the cream and coriander leaves and mix well. Serve hot with rice or naan bread.",
-        "rating": "4.3"
+        "cooking_method": "Chingri Bhapa is a popular Bengali dish that consists of steamed prawns or shrimp cooked in a rich and flavorful coconut and mustard gravy. To make Chingri Bhapa, first, clean and devein the prawns or shrimp and marinate them with salt and turmeric. Next, prepare the gravy by mixing together grated coconut, mustard seeds, green chili, salt, and a little water in a blender or food processor. Then, heat oil in a pan and add the gravy mixture, cooking until fragrant. Add the prawns/shrimp to the pan and stir well, making sure they are coated in the gravy. Finally, transfer the mixture to a bowl, cover it with foil, and steam for around 10-15 minutes until the prawns/shrimp are cooked through and the gravy is thick and creamy. Serve hot with rice or bread.",
+        "rating": "4.5"
+      },
+      {
+        "name": "Kacchi Biryani",
+        "ingredients": [
+          "1 lb of mutton",
+          "2 cups of basmati rice",
+          "1/2 cup of yogurt",
+          "2-3 tbsp of ghee",
+          "1/4 tsp of saffron",
+          "Salt to taste"
+        ],
+        "cooking_method": "To make Kacchi Biryani, first marinate the meat with yogurt, ginger-garlic paste, chili powder, cumin powder, coriander powder, garam masala, salt, and oil for at least 2-3 hours. Then, in a large pot, add the marinated meat and layer it with sliced onions, chopped mint and coriander leaves, and boiled eggs. Top it with soaked basmati rice, saffron-infused milk, and fried onions. Seal the pot with dough and cook it over low heat for 2-3 hours until the rice and meat are fully cooked and infused with the aromatic spices. Serve hot with raita and salad.",
+        "rating": "4"
+      },
+      {
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "1 lb of hilsa fish",
+          "1/2 cup of mustard paste",
+          "1/4 cup of yogurt",
+          "2-3 green chillies",
+          "1/2 tsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "To prepare Shorshe Ilish, first marinate the ilish fish with turmeric and salt for 10-15 minutes. Then, fry the fish in mustard oil until golden brown and set aside. In the same pan, add some more mustard oil and fry sliced onions until golden brown. Add ginger paste, garlic paste, and green chilies and cook for a few minutes. Next, add a tablespoon of mustard paste and mix well with the onion mixture. Gradually add water and keep stirring until the mustard mixture is cooked and oil starts separating. Add salt and sugar to taste. Finally, add the fried ilish fish to the mustard gravy and let it cook for a few minutes until the gravy thickens. Serve hot with steamed rice.",
+        "rating": "5"
       }
     ]
   },
@@ -279,76 +211,43 @@
     "bio": "Chef Firoz is a British-Bangladeshi chef, restaurateur, and author. He is the founder of 'The Raj' restaurant chain and known for his innovative take on Indian and Bangladeshi cuisine.",
     "recipes_info": [
       {
-        "name": "Chicken Tikka Masala",
+        "name": "Chingri Bhapa",
         "ingredients": [
-          "500g boneless, skinless chicken breasts, cut into bite-size pieces",
-          "1 large onion, finely chopped",
-          "2 garlic cloves, minced",
-          "1-inch piece of ginger, grated",
-          "1 green chili, chopped",
-          "2 tbsp vegetable oil",
-          "1 tsp ground coriander",
-          "1 tsp ground cumin",
-          "1 tsp garam masala",
-          "1 tsp turmeric",
-          "1/2 tsp chili powder",
-          "1/2 tsp salt",
-          "1/2 cup plain yogurt",
-          "1/2 cup heavy cream",
-          "1 tbsp tomato paste",
-          "2 tbsp chopped fresh cilantro"
+          "1 lb of shrimp",
+          "1/2 cup of grated coconut",
+          "1/2 cup of mustard paste",
+          "2-3 green chillies",
+          "1/4 tsp turmeric powder",
+          "Salt to taste"
         ],
-        "cooking_method": "In a large bowl, mix together the chicken, onion, garlic, ginger, and chili. Heat oil in a pan and fry the chicken mixture until browned. Add the spices and fry for another minute. Add the tomato paste and cook for 2 minutes. Add the yogurt and cream and cook for another 5-10 minutes, until the chicken is cooked through. Garnish with chopped cilantro and serve hot with rice or naan bread.",
-        "rating": "4.8"
-      },
-      {
-        "name": "Lamb Biryani",
-        "ingredients": [
-          "500g lamb, cut into bite-size pieces",
-          "2 cups basmati rice",
-          "2 onions, thinly sliced",
-          "4 tomatoes, chopped",
-          "1/2 cup plain yogurt",
-          "1 tbsp ginger paste",
-          "1 tbsp garlic paste",
-          "1 tsp red chili powder",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "2 bay leaves",
-          "4 cloves",
-          "4 green cardamom",
-          "2 black cardamom",
-          "1 cinnamon stick",
-          "1/2 tsp nutmeg powder",
-          "1/2 cup vegetable oil",
-          "1/2 cup ghee",
-          "1/2 cup fried onion",
-          "2 tbsp chopped mint leaves",
-          "2 tbsp chopped cilantro"
-        ],
-        "cooking_method": "Wash the rice and soak it in water for 30 minutes. Heat oil and ghee in a pan, and fry the onions until golden brown. Add the lamb, ginger paste, garlic paste, and all the spices. Cook until the lamb is browned. Add the tomatoes and cook until they are soft. Add the yogurt and mix well. Add 4 cups of water and bring to a boil. Add the soaked rice and mix well. Add the fried onions, mint leaves, and cilantro. Cover the pan and cook on low heat until the rice is cooked and the water has evaporated. Serve hot.",
+        "cooking_method": "Chingri Bhapa is a popular Bengali dish that consists of steamed prawns or shrimp cooked in a rich and flavorful coconut and mustard gravy. To make Chingri Bhapa, first, clean and devein the prawns or shrimp and marinate them with salt and turmeric. Next, prepare the gravy by mixing together grated coconut, mustard seeds, green chili, salt, and a little water in a blender or food processor. Then, heat oil in a pan and add the gravy mixture, cooking until fragrant. Add the prawns/shrimp to the pan and stir well, making sure they are coated in the gravy. Finally, transfer the mixture to a bowl, cover it with foil, and steam for around 10-15 minutes until the prawns/shrimp are cooked through and the gravy is thick and creamy. Serve hot with rice or bread.",
         "rating": "4.5"
       },
       {
-        "name": "Chana Masala",
+        "name": "Kacchi Biryani",
         "ingredients": [
-          "1 can of chick peas",
-          "1 onion, chopped",
-          "2 garlic cloves, minced",
-          "1 inch ginger, grated",
-          "2 tomatoes, chopped",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "1/2 tsp turmeric powder",
-          "1/2 tsp red chili powder",
-          "1 tsp garam masala powder",
-          "2 tbsp oil",
-          "Salt to taste",
-          "Water",
-          "Chopped coriander leaves for garnish"
+          "1 lb of mutton",
+          "2 cups of basmati rice",
+          "1/2 cup of yogurt",
+          "2-3 tbsp of ghee",
+          "1/4 tsp of saffron",
+          "Salt to taste"
         ],
-        "cooking_method": "Heat oil in a pan, add the chopped onions, minced garlic, and grated ginger. Saute until onions turn translucent. Add the chopped tomatoes, cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Cook until the tomatoes are soft and mushy. Add the chickpeas with water and mix well. Cover the pan and let it simmer for 15-20 minutes. Add garam masala powder and mix well. Cook for another 5-10 minutes. Garnish with chopped coriander leaves and serve hot with rice or naan bread.",
-        "rating": "4.7"
+        "cooking_method": "To make Kacchi Biryani, first marinate the meat with yogurt, ginger-garlic paste, chili powder, cumin powder, coriander powder, garam masala, salt, and oil for at least 2-3 hours. Then, in a large pot, add the marinated meat and layer it with sliced onions, chopped mint and coriander leaves, and boiled eggs. Top it with soaked basmati rice, saffron-infused milk, and fried onions. Seal the pot with dough and cook it over low heat for 2-3 hours until the rice and meat are fully cooked and infused with the aromatic spices. Serve hot with raita and salad.",
+        "rating": "4"
+      },
+      {
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "1 lb of hilsa fish",
+          "1/2 cup of mustard paste",
+          "1/4 cup of yogurt",
+          "2-3 green chillies",
+          "1/2 tsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "To prepare Shorshe Ilish, first marinate the ilish fish with turmeric and salt for 10-15 minutes. Then, fry the fish in mustard oil until golden brown and set aside. In the same pan, add some more mustard oil and fry sliced onions until golden brown. Add ginger paste, garlic paste, and green chilies and cook for a few minutes. Next, add a tablespoon of mustard paste and mix well with the onion mixture. Gradually add water and keep stirring until the mustard mixture is cooked and oil starts separating. Add salt and sugar to taste. Finally, add the fried ilish fish to the mustard gravy and let it cook for a few minutes until the gravy thickens. Serve hot with steamed rice.",
+        "rating": "5"
       }
     ]
   },
